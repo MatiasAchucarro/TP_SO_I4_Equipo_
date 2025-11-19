@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  A. ¿Qué color de fondo tiene su página en el TESTING?
 
 Respuesta: blue
@@ -39,3 +40,12 @@ git add index.html
 git commit -m "Agrego <p> de los puntos 18,19,20 a index.html"
 git push origin DESARROLLO
 
+=======
+ A- ¿Qué color de fondo tiene su página en el TESTING ?
+GAMMA: blue
+ B- ¿Qué color de fondo tiene su página en el DESARROLLO ?
+GAMMA: yellow
+ C- ¿Qué color de fondo tiene su página en el MASTER?
+GAMMA: RED
+ D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
+>>>>>>> 608db4426f6c11d899743627c7b6c41fc02b275e
